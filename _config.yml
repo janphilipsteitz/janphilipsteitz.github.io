@@ -9,7 +9,7 @@ site_theme               : "default" # "default", "air", "sunrise", "mint", "dir
 title                    : "Jan Philip Steitz"
 title_separator          : "-"
 name                     : &name "Jan Philip Steitz"
-description              : &description "Jan Philip Steitz — PhD Candidate in Economics, University of Wisconsin–Milwaukee. Public economics, economic history, and labor economics."
+description              : &description "Jan Philip Steitz — PhD Candidate in Economics, University of Wisconsin–Milwaukee"
 url                      : https://janphilipsteitz.github.io
 baseurl                  : ""
 repository               : "janphilipsteitz/janphilipsteitz.github.io"
