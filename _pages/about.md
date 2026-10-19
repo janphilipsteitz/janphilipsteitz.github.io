@@ -16,6 +16,6 @@ federalism, interjurisdictional tax competition, the historical development of
 the American tax system, and immigration.
 
 You can find my CV [here](/files/cv.pdf), and my research
-[here]({{ site.baseurl }}/research/).
+[here](/research/).
 
 Contact: [jsteitz@uwm.edu](mailto:jsteitz@uwm.edu)
