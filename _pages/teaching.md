@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Instructor of Record
+## Instructor
 
 **ECON 104: Principles of Macroeconomics**  
 University of Wisconsin–Milwaukee, Spring 2026
