@@ -6,9 +6,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Raise Fast, Cut Slow: Asymmetric Reversal of Recession-Driven State Tax
-Increases**  
-[PDF](/files/Steitz_RaiseFastCutSlow.pdf)
+**[Raise Fast, Cut Slow: Asymmetric Reversal of Recession-Driven State Tax Increases](/files/Steitz_RaiseFastCutSlow.pdf)**
 
 <details>
 <summary>Abstract (click to expand)</summary>
@@ -40,8 +38,7 @@ percentage points on the top income rate, rather than an accumulated stock.
 
 ## Working Papers
 
-**Same Language, Same Market? Substitution Between Mexican and Other Hispanic
-Immigrants in the United States**  
+**Same Language, Same Market? Substitution Between Mexican and Other Hispanic Immigrants in the United States**  
 *Draft coming soon*
 
 <details>
@@ -100,16 +97,10 @@ local economic base is concentrated.
 
 <br>
 
-**Federal Retreats and State Advances: Asymmetric Vertical Fiscal Interactions
-Across a Century**  
-*Draft coming soon*
-
-<br>
-
 ## Work in Progress
+
+**Federal Retreats and State Advances: Asymmetric Vertical Fiscal Interactions Across a Century**
 
 **The Price of Giving: Tax Incentives, Reporting, and Real Charitable Behavior**
 
 **Railroads and Property Taxation**
-
-**The Origins of the Assessment Gap**
