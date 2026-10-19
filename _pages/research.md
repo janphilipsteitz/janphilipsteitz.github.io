@@ -99,8 +99,11 @@ local economic base is concentrated.
 
 ## Work in Progress
 
-**Federal Retreats and State Advances: Asymmetric Vertical Fiscal Interactions Across a Century**
+**Federal Retreats and State Advances: Asymmetric Vertical Fiscal Interactions Across a Century**  
+How state tax policy responds to federal tax changes over a century, and whether that response is symmetric.
 
-**The Price of Giving: Tax Incentives, Reporting, and Real Charitable Behavior**
+**The Price of Giving: Tax Incentives, Reporting, and Real Charitable Behavior**  
+Whether the fall in reported charitable giving after the 2017 tax reform reflects real behavior or a change in who itemizes.
 
-**Railroads and Property Taxation**
+**Railroads and Property Taxation**  
+Whether local governments capture an expanding tax base when market access grows, the mirror of the boll weevil test.
